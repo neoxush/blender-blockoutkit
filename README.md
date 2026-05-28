@@ -12,7 +12,7 @@ pipeline.
 
 ## Quick Setup
 1. The script is built base don Blender 5.x
-2. Download [Zip]([url](https://github.com/neoxush/blender-blockoutkit/archive/refs/heads/main.zip)) file
+2. Download [Zip file](https://github.com/neoxush/blender-blockoutkit/archive/refs/heads/main.zip)
 3. Drag-n-drop to install
 4. Press N to open sidebar
 5. Have fun
